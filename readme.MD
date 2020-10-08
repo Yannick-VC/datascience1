@@ -2,7 +2,7 @@
 
 ## Practicalities
 
-## Schedule
+### Schedule
 
 | Date          | Content                                  | 
 | ------------- | -------------                            | 
