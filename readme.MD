@@ -1,6 +1,6 @@
 # Data Science 1 
 
-## Content
+## Practicalities
 
 ## Schedule
 
