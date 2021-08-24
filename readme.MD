@@ -4,8 +4,8 @@
 
 ### Schedule
 
-| Date          | Content                                  | Slides               | 
-| ------------- | -------------                            | -------------        | 
+| Date          | Content                                  | Slides               | Notebook               | 
+| ------------- | -------------                            | -------------        | -------------          | 
 | Week 1        | Introduction                             | 
 | Week 2        | Regression 1: Linear Regression          |
 | Week 3        | Regression 2: Regression Extensions      |
